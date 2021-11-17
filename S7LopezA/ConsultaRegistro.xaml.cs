@@ -43,7 +43,7 @@ namespace S7LopezA
 
             }catch (Exception ex)
             {
-                DisplayAlert("Error", "ERROR" + ex.Message, "OK");
+                DisplayAlert("Error", "ERROR" + ex.Message, "Ok");
 
             }
         }
